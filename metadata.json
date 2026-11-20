@@ -1,0 +1,12 @@
+{
+  "name": "TIGER — Connect. Share. Create. Store. Discover.",
+  "description": "منصة TIGER المتكاملة للتواصل الاجتماعي، المحادثات الفورية المشفرة، الفيديوهات القصيرة، البث المباشر، التخزين السحابي، والذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
